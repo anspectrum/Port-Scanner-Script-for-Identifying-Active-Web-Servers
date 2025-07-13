@@ -49,6 +49,7 @@ Customization
     Browser Configuration: Modify the open_ips_in_firefox function to use a different browser if necessary (currently configured for Firefox).
 
 Important Notes
+
 Ethical Use: This script is intended for legitimate purposes, such as scanning your own network or obtaining public server information for research. Please ensure that you have permission to scan the IP ranges you are targeting.
 
 Not for Malicious Use: Unauthorized port scanning can be considered illegal in certain jurisdictions. Always use this tool responsibly and with appropriate authorization.
