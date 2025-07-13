@@ -17,16 +17,6 @@ Requirements
 
     Python 3.x
 
-    socket (standard library)
-
-    webbrowser (standard library)
-
-    concurrent.futures (standard library)
-
-You can install any additional requirements by running:
-
-pip install -r requirements.txt
-
 Usage
 
     Configure the IP Range:
